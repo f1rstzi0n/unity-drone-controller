@@ -47,9 +47,9 @@ Be sure to download the materials and the texture folders from [here][Ground Mat
 You can place both `Material/` and `Textures/` folders within `Art/Ground` for instance.
 Thanks [Indie Pixel] for the cool textures.
 
-大地模型简单来说就是一个2D的"GameObject"，一个带点纹理的平面
-所以一定要下载材质和纹理，可以点击 [这里][Ground Material/Textures]下载
-可以把“Material/”和“Textures/”文件夹都放在“Art/Ground”里面
+大地模型简单来说就是一个2D的 `GameObject` ，一个带点纹理的平面.
+所以一定要下载材质和纹理，可以点击 [这里][Ground Material/Textures] 下载。
+可以把 `Material/` 和 `Textures/` 文件夹都放在 `Art/Ground` 里面。
 感谢[Indie Pixel] 提供牛逼的纹理。
 
 ## PS4 Controller
@@ -65,7 +65,7 @@ PS4手柄控制器是直接配对到了电脑上的。
 
 The configuration for the drone inputs can be found this [directory][Drone Inputs].
 
-无人机输入的配置文件在这里：[directory][Drone Inputs].
+无人机输入的配置文件在这里：[directory][Drone Inputs]。
 
 ## Future work
 
