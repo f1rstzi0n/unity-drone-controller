@@ -21,8 +21,8 @@ To start running this project you need to fulfil a few steps.
 Firstly, you've got to have Unity installed (obviously), and secondly, you should download the `Art` for the models.
 There are only two models in the scene, the DJI F450 drone and the ground to collide with.
 
-跑本项目之前你需要完成以下几步操作：
-1. 安装unity（
+运行本项目之前你需要完成以下几步操作：
+1. 安装unity（bushi
 2. 下载“Art”，内含无人机建模（只有两个，DJI F450和大地模型）
 
 ### DJI F450 Drone
@@ -34,9 +34,9 @@ So I fixed it and exported a Unity package based on a FBX file. Download it from
 
 模型下载自 [here][3DWarehouse DJI F450] ，感谢 Matheus Monteiro。
 
-注意事项：单独导入Collada或SketchUp文件时，模型不会完整。
+注意事项：单独导入Collada或SketchUp文件时，模型会不太完整。
 
-所以我进行了修复，导出了一个.FBX的unity包。点击链接进行下载：[link][F450 Unity package].
+所以我进行了修复，导出了一个.FBX的unity包。点击[这里][F450 Unity package]进行下载。
 
 ![DJI F450 Image]
 
@@ -48,7 +48,7 @@ You can place both `Material/` and `Textures/` folders within `Art/Ground` for i
 Thanks [Indie Pixel] for the cool textures.
 
 大地模型简单来说就是一个2D的"GameObject"，一个带点纹理的平面
-所以一定要下载材质和纹理，可以点击这里下载： [here][Ground Material/Textures].
+所以一定要下载材质和纹理，可以点击 [这里][Ground Material/Textures]下载
 可以把“Material/”和“Textures/”文件夹都放在“Art/Ground”里面
 感谢[Indie Pixel] 提供牛逼的纹理。
 
